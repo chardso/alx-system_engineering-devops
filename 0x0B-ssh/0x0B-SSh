@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+ssh ubuntu@34.139.123.27
+mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys
+chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
+echo ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzpqMcLOSQqHAUTLgmO194ovtQwiPEgC+ZGqRvcdYOUkeYvD7yL5HttiF+3pwkRZ2KzFBZqWMS4WpFD4e4s6D+/5ZUK+5q2/aii+vTZjwRs4T+ZapYCL8kE6PSG4WgCWfXxTFDix/f2u1LqGTIIpvGfbvJ5ktcdYCegOGrPg8RY9k7Gts/InvhKzF3bOmtEhTtlevKKCC1NE/VFxWd3sbXh/YDMnr+xj1m/VJo5P1gsbbNXN1Ho1HxeQS2BeOYUVc1XA3fzTVOsjwGDIvpvniT0tIN7SckkxiIrF2yzakLiX0FZNmZcJKCjurNtwcPBuqv7We6D3z+BrWf+pg2yjcP acer@acer-travelmate
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4F5fqbBfy75akCCzmm9kOnLot9kWUT29GZlPv8qokgM0u8bKHmwQQZ9tkpQirraF/svtqgHrbBvOPGsLFUPqDEtTIVO8HDxvkCms3NBDMXA8MrRFaC/4k4rz9qV5i+XWt6/H1sFnzLCcztkEAdJLz1jaX3QGKlchro/4q9EgFsGH2o0YLaM/5MWSSRFPHKsfDj7adFfE13IcqLzVHMeFz1I1glLCmxSTHyBcFXrtpsHr9WaZGrJ5fLKxCEmV8x1UwMbSQz93PJNLlgbAJ+9/mYSx63mAPxbigAovA0pdGD0x1gED6pqLcmOFO1N/kMkTvp9n24XPT1wEvWJFuRn11 acer@acer-travelmate-chardso
