@@ -1,1 +1,2 @@
- # Networking basics #1
+# Networking basics #1
+![localhost](img/localhost.png) 
