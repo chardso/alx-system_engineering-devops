@@ -25,4 +25,3 @@ if __name__ == "__main__":
             "task": todo.get("title"),
             "completed": todo.get("completed"),
             "username": user_name} for todo in todos]}, f)
-
