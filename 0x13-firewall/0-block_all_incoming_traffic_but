@@ -8,4 +8,3 @@ sudo ufw allow 443
 sudo ufw show added
 sudo ufw app list
 sudo ufw enable
-
