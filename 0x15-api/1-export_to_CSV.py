@@ -36,4 +36,3 @@ if __name__ == "__main__":
     with open(sys.argv[1] + '.csv', 'w+', newline='') as f:
         writer = csv.writer(f, quoting=csv.QUOTE_ALL)
         writer.writerows(csvList)
-
