@@ -29,4 +29,3 @@ if __name__ == "__main__":
         todo_all_employees[user.get("id")] = todos_list
     with open(FILENAME, 'w+') as f:
         json.dump(todo_all_employees, f)
-
